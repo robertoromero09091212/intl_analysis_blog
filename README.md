@@ -11,5 +11,8 @@ Example:
 
 We want to include geopolitical analysis of let's say Syria, so we create a track "Syrian History" and include all recent history, militias, civil war, foreign policy, and once finished links to the real-time posts that are created about present events to continue the "story" from there.
 
+NOTE: It is important to mention that some of the articles may include personal opinions or speculations that may not necessarily reflect the absolute truth, intelligence analysis tries to inform about the most likely outcome that is or will be happening, but in the same way an AI tries to statistically predict a text, or a forensic expert tries to statistically deduce the most likely outcome for a crime, nothing is hundred percent guaranteed to reflect the truth.
+
 NOTE: It is also worth to note that this research has been motivated not only as a hobby in geopolitics but to advance an AI Agent for OSINT and Intelligence Analysis, so the posts that are a result of this in-development solution will specifically also inform about the progress of the development of the capability and its performance.
+
 
