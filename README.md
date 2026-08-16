@@ -1,6 +1,6 @@
 # intl_analysis_blog
 
-Early version of a geopolitics blog focusing on intelligence analysis of different regions and conflicts in the world using Open Source Intelligence (OSINT). Non-commercial only intended as a hobby.
+Early version of a geopolitics blog focusing on intelligence analysis of different regions and conflicts in the world using Open Source Intelligence (OSINT). Non-commercial, only intended as a hobby.
 
 The main focus is intended to be into Middle East and North Africa (MENA) conflicts, terror risks, ...; but ideally will also cover some interesting details of other regions like Eastern Europe and Latin America.
 
